@@ -2,5 +2,5 @@ i=0
 while [ $i -ne 50 ]
 do
         i=$(($i+1))
-        curl -o ./datasets/esp32_motor/tests/motor/$(uuidgen | tr "[:upper:]" "[:lower:]").jpg http://192.168.0.121/capture
+        curl -o ./datasets/esp32_motor/training/motor/$(uuidgen | tr "[:upper:]" "[:lower:]").jpg http://192.168.0.121/capture
 done
