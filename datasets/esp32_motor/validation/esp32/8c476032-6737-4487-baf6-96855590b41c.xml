@@ -1,0 +1,26 @@
+<annotation>
+	<folder>esp32</folder>
+	<filename>8c476032-6737-4487-baf6-96855590b41c.jpg</filename>
+	<path>/Users/murilokakazu/Projects/turing/datasets/esp32_motor/validation/esp32/8c476032-6737-4487-baf6-96855590b41c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>esp32</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>166</ymin>
+			<xmax>255</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+</annotation>

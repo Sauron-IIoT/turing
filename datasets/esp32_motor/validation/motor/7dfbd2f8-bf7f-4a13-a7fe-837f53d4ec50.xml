@@ -1,0 +1,26 @@
+<annotation>
+	<folder>motor</folder>
+	<filename>7dfbd2f8-bf7f-4a13-a7fe-837f53d4ec50.jpg</filename>
+	<path>/Users/murilokakazu/Projects/turing/datasets/esp32_motor/validation/motor/7dfbd2f8-bf7f-4a13-a7fe-837f53d4ec50.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>114</ymin>
+			<xmax>270</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>
