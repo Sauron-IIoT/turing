@@ -1,5 +1,5 @@
 i=0
-while [ $i -ne 3 ]
+while [ $i -ne 5 ]
 do
         i=$(($i+1))
         curl -o ./datasets/esp32_motor/training/esp32/$(uuidgen | tr "[:upper:]" "[:lower:]").jpg http://192.168.0.121/capture
