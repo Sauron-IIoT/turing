@@ -1,4 +1,4 @@
-python3 movie.py
+python3 move.py
 
 git add .
 git commit -m 'more samples'
